@@ -31,11 +31,17 @@ Como resultado de aprovechar las iniciativas de **DevOps**, muchos equipos han r
 ### 1.2 Razones para aceptar DevOps ###
 
 DESARROLLO <-┬----------┬ 
+
 └->	PRUEBAS  ┘         	|
+
     └-> PACKAGE        	|
+	
         ├->	DEPLOY(QA)  |
+		
         |   └-> TESTING ┘
+		
         └-------┴-> DEPLY(PRD)
+		
 MONITOR(R) -┴-------┘ 
 
 ## 2. Ambientes de Desarrollo ##

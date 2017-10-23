@@ -1,6 +1,6 @@
 # DevOps #
 
-DevOps es la unión entre equipos de desarrollo (Developers) y encargados de operaciones (Operations) con la finalidad de potenciar los resultados de estos mismos, mejorando los productos o empresas que adoptan sus buenas prácticas de cara a los consumidores pero también en el aspecto del negocio.
+DevOps es la unión entre equipos de desarrollo **(Developers)** y encargados de operaciones **(Operations)** con la finalidad de potenciar los resultados de estos mismos, mejorando los productos o empresas que adoptan sus buenas prácticas de cara a los consumidores pero también en el aspecto del negocio.
 
 Esto lo hacen trabajando de manera conjunta en tener sitios y aplicaciones siempre disponibles, acelerando los procesos de desarrollo y facilitando la detección de bugs y su corrección evitando caidas en los servicios las cuales suelen ser catastróficas para las compañías, imagínate que tu sitio deje de responder durante su momento más importante de ventas en el año, o que por tener una caida en su servicio pierden a su cliente más importante, sin duda estas son situaciones que nadie quiere experimentar, con el fin de evitar situaciones así de graves entre otras cosas se han desarrollado una serie de procesos y buenas prácticas que al implementarse conforman el panorama actual de DevOps.
 

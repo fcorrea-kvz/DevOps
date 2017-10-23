@@ -12,6 +12,7 @@ Esto lo hacen trabajando de manera conjunta en tener sitios y aplicaciones siemp
 **DevOps** es un cambio en la cultura de los equipos y el deseo de mejorar sus procesos. Usualmente es orgánico.
 
 El movimiento de **DevOps** promueve las siguientes iniciativas:
+
 	* Cultura - el deseo en ambos equipos en colaborar.
 	* Automatización - poder reproducir infraestructura como reproducimos bugs.
 	* Medidas - saber cuánto tomaron nuestras metas en común.

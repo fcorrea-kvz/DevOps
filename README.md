@@ -32,7 +32,7 @@ Como resultado de aprovechar las iniciativas de **DevOps**, muchos equipos han r
 
 `┌--------------┬--------------------------------------┐                   `
 `DESARROLLO --> PRUEBAS --> PACKAGE --> DEPLOY(QA) --> TESTING  DEPLY(PRD) `
-`                           ├-----------------------------------┤          `
+`...........................├-----------------------------------┤          `
 `MONITOR(R) ----------------┴-----------------------------------┘          `
 
 

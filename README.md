@@ -7,6 +7,27 @@ Esto lo hacen trabajando de manera conjunta en tener sitios y aplicaciones siemp
 
 ## 1. Entendiendo qué es DevOps ##
 ### 1.1 ¿Qué es DevOps? ###
+**DevOps** es la unión entre **Developers** y **Operations**.
+
+**DevOps** es un cambio en la cultura de los equipos y el deseo de mejorar sus procesos. Usualmente es orgánico.
+
+El movimiento de **DevOps** promueve las siguientes iniciativas:
+	* Cultura - el deseo en ambos equipos en colaborar.
+	* Automatización - poder reproducir infraestructura como reproducimos bugs.
+	* Medidas - saber cuánto tomaron nuestras metas en común.
+	* Sharing - mejores herramientas internas compartidas por todos los equipos.
+
+Como resultado de aprovechar las iniciativas de **DevOps**, muchos equipos han reportado que ven menos errores en producción, y cuando ven errores críticos logran revertir el daño con velocidad. Eso se convierte en Operadores que pueden dormir tranquilos, Developers que pueden seguir mejorando el producto y armonía entre todos en la empresa.
+	
+
+#### ¿Qué no es DevOps? ####
+
+	* Una persona nueva en el equipo.
+	* Una herramienta.
+	* Un nuevo equipo.
+	* Un unicornio mágico que hace que todo sepa a cerveza
+
+
 ### 1.2 Razones para aceptar DevOps ###
 
 ## 2. Ambientes de Desarrollo ##

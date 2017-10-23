@@ -28,8 +28,15 @@ Como resultado de aprovechar las iniciativas de **DevOps**, muchos equipos han r
 	* Un nuevo equipo.
 	* Un unicornio mágico que hace que todo sepa a cerveza
 
-
 ### 1.2 Razones para aceptar DevOps ###
+
+DESARROLLO <-┬----------┬ 
+└->	PRUEBAS  ┘         	|
+    └-> PACKAGE        	|
+        ├->	DEPLOY(QA)  |
+        |   └-> TESTING ┘
+        └-------┴-> DEPLY(PRD)
+MONITOR(R) -┴-------┘ 
 
 ## 2. Ambientes de Desarrollo ##
 ### 2.1 Herramientas para crear Ambientes de Desarrollo ###

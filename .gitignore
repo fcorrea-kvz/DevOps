@@ -1,3 +1,4 @@
 *.zip
 *.gz
+node_modules
 

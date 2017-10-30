@@ -4,7 +4,7 @@ machine:
 
 dependencies:
    override:
-     - docker build -t platzi $HOME/DevOps/BasicNodeApps/Dockerfile
+     - docker build -t platzi /home/ubuntu/DevOps/BasicNodeApps/Dockerfile
 
 test:
    override:

@@ -1,0 +1,11 @@
+machine: 
+   services:
+     - docker
+
+dependencies:
+   override:
+     - docker build -t platzi ./BasicNodeApps/Dockerfile
+
+test:
+   override:
+     - docker run platzi npm test

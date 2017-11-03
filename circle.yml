@@ -6,7 +6,7 @@ machine:
 
 dependencies:
    override:
-     - docker build -t platzi /home/ubuntu/DevOps/BasicNodeApps/
+     - docker build -t platzi $HOME/DevOps/BasicNodeApps/
 
 test:
    override:
@@ -16,4 +16,4 @@ deployment:
    qa:
      branch: /feature_.*/
      commands:
-       - sh ./BasicNodeApps/deployments/qa.sh
+       - sh $HOME/DevOps/BasicNodeApps/deployments/qa.sh

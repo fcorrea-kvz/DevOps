@@ -1,4 +1,6 @@
 npm install -g now
+pwd
+ls -l
 echo "Deploying..."
 echo "TOKEN: $NOW_TOKEN"
 URL=$(now --docker -t $NOW_TOKEN)

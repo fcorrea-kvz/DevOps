@@ -16,4 +16,4 @@ deployment:
    qa:
      branch: /feature_.*/
      commands:
-       - sh ./deployments/qa.sh
+       - sh ./deployments/BasicNodeApps/qa.sh

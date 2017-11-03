@@ -1,4 +1,4 @@
-ROM node:6.9
+FROM node:6.9
 EXPOSE 3000
 
 WORKDIR /app

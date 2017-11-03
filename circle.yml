@@ -16,4 +16,4 @@ deployment:
    qa:
      branch: /feature_.*/
      commands:
-       - sh /home/ubuntu/DevOps/BasicNodeApps/deployments/qa.sh
+       - sh ./deployments/qa.sh

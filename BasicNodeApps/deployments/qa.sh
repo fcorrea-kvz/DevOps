@@ -1,4 +1,5 @@
 npm install -g now
+echo "$HOME"
 pwd
 ls -l
 echo "Deploying..."
